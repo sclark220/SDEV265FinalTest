@@ -27,8 +27,3 @@ html, body
     width: 100%; /* Ensure images fill their grid cells */
     object-fit: cover; /* Scale images to fill the available space while maintaining aspect ratio */
 }
-
-.white-text 
-{
-    color: #fff;
-}
