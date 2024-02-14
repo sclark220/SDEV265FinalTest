@@ -1,6 +1,6 @@
 html, body
 {
-    background: linear-gradient(to right, black, rgb(50, 0, 50) 10%, black);
+    background: linear-gradient(to right, rgb(42, 42, 42), rgb(128, 128, 128) 10%, rgb(42, 42, 42));
     height: 100%;
     margin: 0;
     background-repeat: no-repeat;
@@ -26,4 +26,9 @@ html, body
 {
     width: 100%; /* Ensure images fill their grid cells */
     object-fit: cover; /* Scale images to fill the available space while maintaining aspect ratio */
+}
+
+.white-text 
+{
+    color: #fff;
 }
